@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi, I'm a Software Developer 👋
 
-<!--
-**Samylee1/Samylee1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a technology enthusiast passionate about software development, problem-solving, and building practical solutions through code. I'm interested in exploring emerging technologies, contributing to open-source projects, and continuously improving my technical skills.
 
-Here are some ideas to get you started:
+💻 Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python, C, C++, JavaScript
+- HTML5 & CSS3
+
+🛠️ Tools & Technologies
+
+- Git & GitHub
+- Visual Studio Code
+- Linux & Command Line
+- Jupyter Notebook
+- MySQL & REST APIs
+
+🎯 Areas of Interest
+
+- Software Engineering
+- Artificial Intelligence & Machine Learning
+- Backend Development
+- Algorithms & Data Structures
+- Automation and Scripting
+- Open-Source Development
+
+🤝 Collaboration
+
+Open to contributing to open-source projects, solving development issues, collaborating with developers, and building innovative technology solutions.
+
+Always learning, building, and contributing.
